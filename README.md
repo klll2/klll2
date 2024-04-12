@@ -1,4 +1,4 @@
-### 안녕하세요! 저는 백엔드/시스템 엔지니어를 꿈꾸는 개발자입니다.
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 - 🌱 현재는 Django, JavaScript, HTML/CSS, Python, React, MySQL, Machine Learning 등 다양한 기술을 학습하고 있습니다.
 - 💼 주로 백엔드 개발과 시스템 구축에 관심이 있습니다.
