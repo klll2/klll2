@@ -1,7 +1,7 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=分析+→+学習+→+思考+→+理解+→+共感💡)](https://git.io/typing-svg)
 
-<center><h3>自分の問題は理解だけで解決できますが、他人の問題解決には共感が必ず必要です。<center><h3>
-<center><h3>より多くの人の問題に共感し、最も合理的な解決策を提示するエンジニアになります。<center><h3>
+<center><h4>自分の問題は理解だけで解決できますが、他人の問題解決には共感が必ず必要です。</h4></center>
+<center><h4>より多くの人の問題に共感し、最も合理的な解決策を提示するエンジニアになります。</h4></center>
 
 
 ### 分野
@@ -39,7 +39,7 @@
 - JLPT N1 (今年中に情報処理機能士取得、Flex 800以上、OPIc IM2以上取得を目指しています。)
 
 
-<center><h2>よろしくお願いいたします！</h2></center>
+<center><h3>よろしくお願いいたします！</h3></center>
 
 
 
