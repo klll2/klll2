@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=分析+→+学習+→+思考+→+理解+→+共感:bulb:)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=分析+→+学習+→+思考+→+理解+→+共感💡)](https://git.io/typing-svg)
 
 ### 価値観
 自分の問題は理解だけで解決できますが、他人の問題解決には共感が必ず必要です。
