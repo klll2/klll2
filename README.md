@@ -23,7 +23,7 @@ ___
 </br>
 
 ### プロジェクト :
-- [PlanT](https://github.com/IME-2024-Graduation-Project/PlanT_full-stack):</br>
+- [PlanT](https://github.com/klll2/PlanT_develop):</br>
   ユーザーのエコ旅行を支援する旅行日程作成サービスです。</br>
   私は 1. DB設計・構築、2. バックエンド機能の実装、3. 一部のフロントエンド機能の実装、4. 全体の連動 を担当しています。
 - [Zoogle](https://github.com/klll2/Zoogle):</br>
