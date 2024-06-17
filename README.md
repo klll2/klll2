@@ -23,12 +23,22 @@ ___
 </br>
 
 ### プロジェクト :
-- [PlanT](https://github.com/klll2/PlanT_develop):</br>
-  ユーザーのエコ旅行を支援する旅行日程作成サービスです。</br>
-  私は 1. DB設計・構築、2. バックエンド機能の実装、3. 一部のフロントエンド機能の実装、4. 全体の連動 を担当しています。
-- [Zoogle](https://github.com/klll2/Zoogle):</br>
+- [🌱PlanT](https://github.com/IME-2024-Graduation-Project/PlanT_presentation_final/tree/main):</br>
+  ユーザーの好みをより正確に反映する強化学習旅行プランナーサービスです。</br>
+  <ol> 1. DB設計・構築 </ol>
+  <ol> 2. 強化学習以外のバックエンド機能の実装 </ol>
+  <ol> 3. フロントエンド実装 </ol>
+  <ol> 4. 全体の連動 </ol>
+  を担当しています。
+  </br></br>
+- [🦁Zoogle](https://github.com/klll2/Zoogle):</br>
   動物に対する飼育員のよりきめ細やかなケアを可能にする動物園管理システムです。</br>
-  私は 1. DB設計及び実装、2. シーケンス図の構想、3. バックエンド機能の実装、4. フロントエンド機能の実装、5. 全体の連動 を担当しました。
+  <ol> 1. DB設計及び実装 </ol>
+  <ol> 2. シーケンス図の構想 </ol>
+  <ol> 3. バックエンド機能の実装 </ol>
+  <ol> 4. フロントエンド機能の実装 </ol>
+  <ol> 5. 全体の連動 </ol>
+  を担当しました
 </br>
 
 ### 学習経路 :
@@ -41,20 +51,24 @@ ___
 </br>
 
 ### 技術スタック :
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+#### - Language :
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+#### - Framework & Library :
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-6495ED?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://keras.io/)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=machine-learning&logoColor=white)
 </br>
 </br>
 </br>
 
 ### 資格 :
-- JLPT N1 (今年中に情報処理機能士取得、Flex 800以上、OPIc IM2以上取得を目指しています。)
+- JLPT N1
 </br>
 
 ___
